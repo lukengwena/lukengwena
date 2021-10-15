@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lukengwena
 - 👀 I’m interested in UI/UX, Product Management and Development (Java, ReactJS)
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java and ReactProjects
+- 💞️ I’m looking to collaborate on Java and React Projects
 - 📫 How to reach me.. lukegwena@gmail.com
 
 <!---
