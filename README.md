@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lukengwena
-- 👀 Java Dev, UI/UX, Product Management 
+- 👀 UI/UX, Product Management 
 - 📫 How to reach me.. lukegwena@gmail.com
 
 <!---
